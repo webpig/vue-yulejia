@@ -1,0 +1,17 @@
+.btn {
+  padding: 5rem;
+  margin-bottom: 10rem;
+}
+button {
+  display: block;
+  margin: auto;
+  height: 3rem;
+  border-radius: 3rem;
+  width: 10rem;
+  margin-bottom: 3rem;
+  border: 0;
+  background-color: #007fff;
+  color: #fff;
+  font-size: 1.2rem;
+  outline: 0;
+}

@@ -1,0 +1,26 @@
+.footer {
+  position: fixed;
+  height: 44px;
+  border-top: 1px solid #f3f4f5;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: #fff;
+}
+.footer div {
+  width: 50%;
+  float: left;
+  text-align: center;
+  line-height: 44px;
+}
+a {
+  display: block;
+  color: #000;
+  width: 100%;
+  height: 100%;
+}
+.router-link-exact-active {
+  color: #f86442;
+}
